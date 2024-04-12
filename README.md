@@ -1,4 +1,4 @@
-# (1) Bank Loan Analysis Tableau Project
+**# (1) Bank Loan Analysis Tableau Project**
 
 Objective-
 The objective of the Bank Loan Analysis Project Dashboard  is to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
@@ -9,7 +9,7 @@ track loan disbursements, and make informed decisions based on the data. The das
 Tableau Public Project link:  https://public.tableau.com/views/LoanDashboard_17087533659730/MainDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
- #(2) startup dashboard Tableau Project 
+ **#(2) startup dashboard Tableau Project** 
 
 
 This aims to inform decision-making by providing valuable insights into startup performance. The dashboard visualizes key metrics, identifies trends, and tracks performance, AI companies, and Top Valued Startups by Country.
