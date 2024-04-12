@@ -1,4 +1,4 @@
-#Bank Loan Analysis Project
+#Bank Loan Analysis Tableau Project
 
 Objective-
 The objective of the Bank Loan Analysis Project Dashboard  is to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
